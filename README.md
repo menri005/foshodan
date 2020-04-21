@@ -2,6 +2,12 @@
 
 FoShodan is a tool that can be used to facilitate searches on Shodan using its API. This helps bypass the search restrictions imposed on free accounts over their Web UI.
 
+## Setup
+
+1. Create a virtual environment (`python -m venv venv`)
+2. Activate your virtual environment
+3. Install requirements (`pip install -r requirements.txt`)
+
 ## Usage
 
 ```bash
